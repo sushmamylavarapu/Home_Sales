@@ -3,10 +3,15 @@ This repository contains a Python script for analyzing home sales data using PyS
 
 ## Table of Contents
 Prerequisites
+
 Setup
+
 Usage
+
 Queries
+
 Caching
+
 Parquet File
 
 ## Prerequisites
